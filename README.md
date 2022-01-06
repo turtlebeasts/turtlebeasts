@@ -18,7 +18,7 @@ Hello, I'm Mriganka (turtlebeasts). I'm a computer science student and here are 
 
 **What are my skills?**
 
-I have experience in the following:
+I have experience in the following: 😎
 
     1. Javascript/React
     2. HTML/HTML5
