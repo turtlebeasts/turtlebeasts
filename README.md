@@ -26,4 +26,4 @@ I have experience in the following: 😎
     4. C/C++
     5. Python (Basic)
 
-*Here's more about me on [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="instagram" width="16"/>](https://www.instagram.com/_turtle_shells/).*
+*Here's more about me on [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="instagram" width="16"/>](https://www.instagram.com/_turtle_shells/)*
